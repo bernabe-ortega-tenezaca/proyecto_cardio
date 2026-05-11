@@ -40,3 +40,5 @@ un mensaje que explica claramente qué cambió y por qué.
 Esta práctica es útil antes de hacer push al remoto, cuando
 aún es posible reescribir el historial local sin afectar
 a otros colaboradores.
+
+- Rama visualizaciones: boxplot de colesterol agregado.
