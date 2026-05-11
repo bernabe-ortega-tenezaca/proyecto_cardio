@@ -28,3 +28,5 @@ Abrir y ejecutar el notebook main.ipynb en orden.
 1d66252 feat: cargar dataset cardiovascular desde UCI
 bc83b31 chore: agregar notebook principal del pipeline
 9976007 chore: inicializar estructura del proyecto
+## Resultado clave
+El 45.9% de los pacientes del dataset presenta enfermedad cardíaca.
