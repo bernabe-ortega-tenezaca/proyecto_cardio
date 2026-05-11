@@ -42,3 +42,4 @@ aún es posible reescribir el historial local sin afectar
 a otros colaboradores.
 
 - Rama visualizaciones: boxplot de colesterol agregado.
+- Rama estadisticas: resumen por grupo de edad agregado.
