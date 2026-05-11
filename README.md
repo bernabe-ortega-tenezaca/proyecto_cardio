@@ -43,3 +43,20 @@ a otros colaboradores.
 
 - Rama visualizaciones: boxplot de colesterol agregado.
 - Rama estadisticas: resumen por grupo de edad agregado.
+
+*   edf283d (HEAD -> main) merge: integrar visualizaciones y estadisticas en main
+|\  
+| * 6370052 (feature/estadisticas) docs: registrar cambio en README rama estadisticas
+| * 15be288 feat: agregar resumen estadistico por grupo de edad
+* | 59d631b (feature/visualizaciones) docs: registrar cambio en README rama visualizaciones
+* | d48db76 feat: agregar boxplot de colesterol por condicion
+|/  
+* e8400f3 docs: documentar correccion de historial en README
+* f3f62a8 docs: agregar resultado clave del EDA en README
+* bd2d488 docs: registrar historial de fase 1 en README
+* 7ff596d feat: analisis exploratorio con tres visualizaciones
+* 7b6cd46 feat: limpieza de valores invalidos y duplicados
+* 5c0fb73 feat: inspeccion inicial del dataset
+* 1d66252 feat: cargar dataset cardiovascular desde UCI
+* bc83b31 chore: agregar notebook principal del pipeline
+* 9976007 chore: inicializar estructura del proyecto
