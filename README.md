@@ -28,5 +28,15 @@ Abrir y ejecutar el notebook main.ipynb en orden.
 1d66252 feat: cargar dataset cardiovascular desde UCI
 bc83b31 chore: agregar notebook principal del pipeline
 9976007 chore: inicializar estructura del proyecto
+
 ## Resultado clave
 El 45.9% de los pacientes del dataset presenta enfermedad cardíaca.
+
+## Decisiones del historial
+En la Fase 2 se usó ‘git reset HEAD~1‘ para deshacer un commit
+cuyo mensaje no era descriptivo ("cambios"). Los archivos
+modificados se conservaron y se volvieron a commitear con
+un mensaje que explica claramente qué cambió y por qué.
+Esta práctica es útil antes de hacer push al remoto, cuando
+aún es posible reescribir el historial local sin afectar
+a otros colaboradores.
